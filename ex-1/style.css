@@ -1,3 +1,5 @@
-h1{
-    color: red;
+body{
+    background: rgba(255, 127, 47, 0.157);
+    text-align: center;
+    color: rgb(240, 63, 9);
 }
